@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img src="./assets/github-banner.png" width="100%" alt="Daniel Ridho Abadi Banner" />
 
